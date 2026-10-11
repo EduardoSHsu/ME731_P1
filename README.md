@@ -1,1 +1,1 @@
-Este repositório contém o código, o relatório e os dados utilizados na elaboração do Projeto 1 (P1) da disciplina de Análise Multivariada (ME731).
+Este repositório contém o código, o relatório e os dados utilizados na elaboração do Projeto 1 (P1) da disciplina de Análise Multivariada (ME731), no qual foi feita um aprofundamento teórico nas técnicas de análise de componentes principais e distância de Mahalanobis e também essas duas técnicas foram colocadas em práticas no conjunto de dados do Our World in Data sobre o consumo e matriz energética dos países.
